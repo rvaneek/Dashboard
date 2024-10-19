@@ -1,0 +1,3000 @@
+{
+  "admin": [
+    {
+      "name": "Mohammad Aneek",
+      "email": "aneek788@gmail.com",
+      "password": "12",
+      "img": "https://i.pinimg.com/originals/6d/5f/c6/6d5fc60bae3dc6139eefa31af206596f.jpg"
+    }
+  ],
+  "user": [
+    {
+      "email": "schilde0@pen.io",
+      "password": "jC371o8W",
+      "img": "https://robohash.org/dolorrationead.png?size=200x200&set=set1",
+      "name": "Stephie Childe"
+    },
+    {
+      "email": "tszymanski1@taobao.com",
+      "password": "oD6E.ny<fCJXL8",
+      "img": "https://robohash.org/magnicorruptiiste.png?size=200x200&set=set1",
+      "name": "Teddy Szymanski"
+    },
+    {
+      "email": "btidman2@mit.edu",
+      "password": "pW1>MWnh\\#H?",
+      "img": "https://robohash.org/suscipitnobisunde.png?size=200x200&set=set1",
+      "name": "Bearnard Tidman"
+    },
+    {
+      "email": "jhargrove3@webnode.com",
+      "password": "fW2.+9ov",
+      "img": "https://robohash.org/quibusdamabipsam.png?size=200x200&set=set1",
+      "name": "Josselyn Hargrove"
+    },
+    {
+      "email": "cskyner4@flavors.me",
+      "password": "iE0iX.J5)ny>&+!",
+      "img": "https://robohash.org/quiarepellatet.png?size=200x200&set=set1",
+      "name": "Corty Skyner"
+    },
+    {
+      "email": "ssikorsky5@comcast.net",
+      "password": "vK3.>h!T%pOX/dA<",
+      "img": "https://robohash.org/voluptasaperiamsunt.png?size=200x200&set=set1",
+      "name": "Sid Sikorsky"
+    },
+    {
+      "email": "ecallf6@phoca.cz",
+      "password": "vT90qr$$UY",
+      "img": "https://robohash.org/laudantiumenimsaepe.png?size=200x200&set=set1",
+      "name": "Esteban Callf"
+    },
+    {
+      "email": "sduetschens7@w3.org",
+      "password": "qV5aS=53~",
+      "img": "https://robohash.org/doloribusperferendisducimus.png?size=200x200&set=set1",
+      "name": "Sherill Duetschens"
+    },
+    {
+      "email": "mdoag8@acquirethisname.com",
+      "password": "rK9M369ZRwB32m",
+      "img": "https://robohash.org/repellatinventorearchitecto.png?size=200x200&set=set1",
+      "name": "Marin Doag"
+    },
+    {
+      "email": "wpllu9@issuu.com",
+      "password": "lY8'0miE*",
+      "img": "https://robohash.org/quisnemoerror.png?size=200x200&set=set1",
+      "name": "Winfield Pllu"
+    },
+    {
+      "email": "rbawlesa@ucla.edu",
+      "password": "bY5PC2{<zC",
+      "img": "https://robohash.org/ullamharumaliquid.png?size=200x200&set=set1",
+      "name": "Rodrigo Bawles"
+    },
+    {
+      "email": "ekeseyb@123-reg.co.uk",
+      "password": "oF1onHBea&",
+      "img": "https://robohash.org/officiisconsequaturalias.png?size=200x200&set=set1",
+      "name": "Erin Kesey"
+    },
+    {
+      "email": "ndaggettc@google.nl",
+      "password": "vH2sHYM}5S\\EK\"",
+      "img": "https://robohash.org/rationepariaturvoluptas.png?size=200x200&set=set1",
+      "name": "Norina Daggett"
+    },
+    {
+      "email": "oleadsd@wikimedia.org",
+      "password": "bV6\"$L1r'6",
+      "img": "https://robohash.org/doloretquos.png?size=200x200&set=set1",
+      "name": "Osbourne Leads"
+    },
+    {
+      "email": "cacrese@163.com",
+      "password": "uY279L7|}GJ",
+      "img": "https://robohash.org/molestiasquiamet.png?size=200x200&set=set1",
+      "name": "Connor Acres"
+    },
+    {
+      "email": "melwoodf@t-online.de",
+      "password": "dM0)Z!_(l+`",
+      "img": "https://robohash.org/autetblanditiis.png?size=200x200&set=set1",
+      "name": "Meriel Elwood"
+    },
+    {
+      "email": "rpiccopg@spiegel.de",
+      "password": "hZ8WzQIx3",
+      "img": "https://robohash.org/maioresrepudiandaevoluptatem.png?size=200x200&set=set1",
+      "name": "Rosemaria Piccop"
+    },
+    {
+      "email": "dcolvieh@independent.co.uk",
+      "password": "eW6j@Z2Nx1c",
+      "img": "https://robohash.org/etautemmaiores.png?size=200x200&set=set1",
+      "name": "Dorotea Colvie"
+    },
+    {
+      "email": "kstredwicki@cafepress.com",
+      "password": "gR52O{y5<DH>*",
+      "img": "https://robohash.org/utquianon.png?size=200x200&set=set1",
+      "name": "Kristal Stredwick"
+    },
+    {
+      "email": "aacresj@privacy.gov.au",
+      "password": "rH0tZ/=tF6#.+!",
+      "img": "https://robohash.org/harumveromagni.png?size=200x200&set=set1",
+      "name": "Aggi Acres"
+    },
+    {
+      "email": "ymalpask@themeforest.net",
+      "password": "nZ6mZBX/0",
+      "img": "https://robohash.org/enimvoluptasexercitationem.png?size=200x200&set=set1",
+      "name": "Yankee Malpas"
+    },
+    {
+      "email": "astannersl@nbcnews.com",
+      "password": "pZ0zsRm8",
+      "img": "https://robohash.org/laboriosamtemporasuscipit.png?size=200x200&set=set1",
+      "name": "Aylmar Stanners"
+    },
+    {
+      "email": "mgregersenm@naver.com",
+      "password": "nC3d,*nP?",
+      "img": "https://robohash.org/adbeataemaxime.png?size=200x200&set=set1",
+      "name": "Michale Gregersen"
+    },
+    {
+      "email": "bbarokn@psu.edu",
+      "password": "mC8C=!Nw",
+      "img": "https://robohash.org/remain.png?size=200x200&set=set1",
+      "name": "Benedetta Barok"
+    },
+    {
+      "email": "tlittrello@bizjournals.com",
+      "password": "bU5/~j)E",
+      "img": "https://robohash.org/doloribusvelnemo.png?size=200x200&set=set1",
+      "name": "Timothy Littrell"
+    },
+    {
+      "email": "elambertonp@rakuten.co.jp",
+      "password": "qF5JqYv=6@6",
+      "img": "https://robohash.org/doloremquenonvoluptatibus.png?size=200x200&set=set1",
+      "name": "Eada Lamberton"
+    },
+    {
+      "email": "bhinstockq@facebook.com",
+      "password": "mF7Z|oK7$O7N",
+      "img": "https://robohash.org/atquemolestiaequo.png?size=200x200&set=set1",
+      "name": "Beitris Hinstock"
+    },
+    {
+      "email": "sfassmanr@sohu.com",
+      "password": "hT3z6Z,nXv",
+      "img": "https://robohash.org/estoccaecatidignissimos.png?size=200x200&set=set1",
+      "name": "Shoshanna Fassman"
+    },
+    {
+      "email": "mvales@cafepress.com",
+      "password": "sI1W&IOA",
+      "img": "https://robohash.org/adipiscidebitisipsa.png?size=200x200&set=set1",
+      "name": "Martie Vale"
+    },
+    {
+      "email": "csoftleyt@woothemes.com",
+      "password": "zC2kqyh/5=DUh%39",
+      "img": "https://robohash.org/animiconsecteturpraesentium.png?size=200x200&set=set1",
+      "name": "Corine Softley"
+    },
+    {
+      "email": "divachyovu@myspace.com",
+      "password": "mR8WE__dQX",
+      "img": "https://robohash.org/sapientecorruptised.png?size=200x200&set=set1",
+      "name": "Dominique Ivachyov"
+    },
+    {
+      "email": "bbrashierv@gov.uk",
+      "password": "xX5J1q){o",
+      "img": "https://robohash.org/accusantiumharumenim.png?size=200x200&set=set1",
+      "name": "Babbie Brashier"
+    },
+    {
+      "email": "corrissw@youku.com",
+      "password": "pL5'R_+nhIspOh",
+      "img": "https://robohash.org/quidoloresaliquam.png?size=200x200&set=set1",
+      "name": "Chance Orriss"
+    },
+    {
+      "email": "kzanicchix@wsj.com",
+      "password": "mQ0i\\Q/!R)1S",
+      "img": "https://robohash.org/dictavoluptateveniam.png?size=200x200&set=set1",
+      "name": "Konstance Zanicchi"
+    },
+    {
+      "email": "ccourtneyy@toplist.cz",
+      "password": "vO5N{(3v*}l_z1DU",
+      "img": "https://robohash.org/excepturidoloremqueprovident.png?size=200x200&set=set1",
+      "name": "Chaim Courtney"
+    },
+    {
+      "email": "mmaddocksz@ebay.com",
+      "password": "oN5n2XasOztMd",
+      "img": "https://robohash.org/quisautemnon.png?size=200x200&set=set1",
+      "name": "Maggi Maddocks"
+    },
+    {
+      "email": "gspeller10@about.com",
+      "password": "tU1SmcXK/",
+      "img": "https://robohash.org/utcommodiquia.png?size=200x200&set=set1",
+      "name": "Genovera Speller"
+    },
+    {
+      "email": "rclaibourn11@yellowpages.com",
+      "password": "jC9.7|*GVrwQ_ql",
+      "img": "https://robohash.org/perspiciatisfacilisminima.png?size=200x200&set=set1",
+      "name": "Reider Claibourn"
+    },
+    {
+      "email": "ijoris12@about.me",
+      "password": "bO6\",1'J+(",
+      "img": "https://robohash.org/aidcum.png?size=200x200&set=set1",
+      "name": "Iago Joris"
+    },
+    {
+      "email": "aagius13@artisteer.com",
+      "password": "wD54qOb.e.i|",
+      "img": "https://robohash.org/molestiasdistinctioqui.png?size=200x200&set=set1",
+      "name": "Adamo Agius"
+    },
+    {
+      "email": "chassall14@taobao.com",
+      "password": "nI0v<R{}!W21vNK6",
+      "img": "https://robohash.org/consequaturrecusandaemagnam.png?size=200x200&set=set1",
+      "name": "Camilla Hassall"
+    },
+    {
+      "email": "jmurdie15@webeden.co.uk",
+      "password": "qW9tggo576M~9",
+      "img": "https://robohash.org/autemvoluptatessint.png?size=200x200&set=set1",
+      "name": "Jan Murdie"
+    },
+    {
+      "email": "cpether16@amazon.co.jp",
+      "password": "wY7)Ki(r!#G5ohS~",
+      "img": "https://robohash.org/modiametvelit.png?size=200x200&set=set1",
+      "name": "Corilla Pether"
+    },
+    {
+      "email": "dbellenger17@amazon.com",
+      "password": "fM6Wr~#WV'T",
+      "img": "https://robohash.org/idadipiscieaque.png?size=200x200&set=set1",
+      "name": "Darline Bellenger"
+    },
+    {
+      "email": "rcollomosse18@jigsy.com",
+      "password": "tO6a1_\"!h\\3a6l>",
+      "img": "https://robohash.org/dolortenetureveniet.png?size=200x200&set=set1",
+      "name": "Reginauld Collomosse"
+    },
+    {
+      "email": "mrehme19@sina.com.cn",
+      "password": "pZ78)&.Hi1~S?C3)",
+      "img": "https://robohash.org/quibusdamquiin.png?size=200x200&set=set1",
+      "name": "Marnia Rehme"
+    },
+    {
+      "email": "gsteinson1a@shutterfly.com",
+      "password": "qF1S5{1A%.uzsE?F",
+      "img": "https://robohash.org/delectusdelenitiquo.png?size=200x200&set=set1",
+      "name": "Gracia Steinson"
+    },
+    {
+      "email": "vgullivan1b@paypal.com",
+      "password": "mJ7\"F#2RM*!",
+      "img": "https://robohash.org/totamomnisadipisci.png?size=200x200&set=set1",
+      "name": "Violetta Gullivan"
+    },
+    {
+      "email": "ssommersett1c@hexun.com",
+      "password": "mM0c|,v%Iyw_n.3F",
+      "img": "https://robohash.org/mollitiaimpeditnihil.png?size=200x200&set=set1",
+      "name": "Shelba Sommersett"
+    },
+    {
+      "email": "frekes1d@nba.com",
+      "password": "wE8ot_vi7#",
+      "img": "https://robohash.org/veritatisquiet.png?size=200x200&set=set1",
+      "name": "Fredia Rekes"
+    },
+    {
+      "email": "dfulle1e@goo.ne.jp",
+      "password": "hT7\\bP}PcUWG2y%",
+      "img": "https://robohash.org/utdeseruntnostrum.png?size=200x200&set=set1",
+      "name": "Dinnie Fulle"
+    },
+    {
+      "email": "chodgets1f@youtube.com",
+      "password": "pN84UUTr`$'*",
+      "img": "https://robohash.org/voluptatemmolestiasmolestiae.png?size=200x200&set=set1",
+      "name": "Carly Hodgets"
+    },
+    {
+      "email": "lchurn1g@blogtalkradio.com",
+      "password": "pS05yr/,\"=",
+      "img": "https://robohash.org/temporanequequo.png?size=200x200&set=set1",
+      "name": "Lezlie Churn"
+    },
+    {
+      "email": "rquig1h@studiopress.com",
+      "password": "mP2)P@q15WF#HX",
+      "img": "https://robohash.org/mollitiaexid.png?size=200x200&set=set1",
+      "name": "Richy Quig"
+    },
+    {
+      "email": "ctreasaden1i@cdbaby.com",
+      "password": "hB0GGe*yI3",
+      "img": "https://robohash.org/doloreosdignissimos.png?size=200x200&set=set1",
+      "name": "Cathi Treasaden"
+    },
+    {
+      "email": "bbingall1j@vk.com",
+      "password": "sX4hNyWEE2zT",
+      "img": "https://robohash.org/repellendusmollitiasit.png?size=200x200&set=set1",
+      "name": "Brander Bingall"
+    },
+    {
+      "email": "teykelhof1k@ebay.co.uk",
+      "password": "zL9''p\\2CtYzyUi",
+      "img": "https://robohash.org/utaliaseum.png?size=200x200&set=set1",
+      "name": "Tish Eykelhof"
+    },
+    {
+      "email": "dwelbrock1l@live.com",
+      "password": "tQ72II>Z",
+      "img": "https://robohash.org/aconsequaturrecusandae.png?size=200x200&set=set1",
+      "name": "De Welbrock"
+    },
+    {
+      "email": "wwainer1m@ted.com",
+      "password": "fL7.Qvxjw})Y<",
+      "img": "https://robohash.org/explicaboanimised.png?size=200x200&set=set1",
+      "name": "Wittie Wainer"
+    },
+    {
+      "email": "hshovlin1n@mashable.com",
+      "password": "mN7x3+V)5`pU1",
+      "img": "https://robohash.org/fugitmaximeaccusamus.png?size=200x200&set=set1",
+      "name": "Hurlee Shovlin"
+    },
+    {
+      "email": "dhavercroft1o@hud.gov",
+      "password": "wM9_ufjKvI'",
+      "img": "https://robohash.org/esseeacorrupti.png?size=200x200&set=set1",
+      "name": "Dionysus Havercroft"
+    },
+    {
+      "email": "bkarby1p@vkontakte.ru",
+      "password": "qI9WKzkv\\S8L{#",
+      "img": "https://robohash.org/eaculpanisi.png?size=200x200&set=set1",
+      "name": "Balduin Karby"
+    },
+    {
+      "email": "ptevlin1q@blogtalkradio.com",
+      "password": "kF2RxYg4Ga=",
+      "img": "https://robohash.org/dolorteneturid.png?size=200x200&set=set1",
+      "name": "Padriac Tevlin"
+    },
+    {
+      "email": "dhechlin1r@elpais.com",
+      "password": "rE4!ig_HZEG",
+      "img": "https://robohash.org/aquibusdamveniam.png?size=200x200&set=set1",
+      "name": "Dulciana Hechlin"
+    },
+    {
+      "email": "dhannan1s@g.co",
+      "password": "yF1IPLmq6=R$3w",
+      "img": "https://robohash.org/delenitiquibusdamreprehenderit.png?size=200x200&set=set1",
+      "name": "Dorella Hannan"
+    },
+    {
+      "email": "lzupa1t@tripadvisor.com",
+      "password": "bM4!\"FMte}G*M",
+      "img": "https://robohash.org/culpasitalias.png?size=200x200&set=set1",
+      "name": "Lew Zupa"
+    },
+    {
+      "email": "aassante1u@usgs.gov",
+      "password": "fR9(B<5Z",
+      "img": "https://robohash.org/consequunturquiipsum.png?size=200x200&set=set1",
+      "name": "Alicea Assante"
+    },
+    {
+      "email": "edrewett1v@cyberchimps.com",
+      "password": "yQ3UhRA!.7b<",
+      "img": "https://robohash.org/rerumveliteum.png?size=200x200&set=set1",
+      "name": "Elysee Drewett"
+    },
+    {
+      "email": "mmoughtin1w@cloudflare.com",
+      "password": "zC2k3_G`?thWx&O5",
+      "img": "https://robohash.org/essetemporamollitia.png?size=200x200&set=set1",
+      "name": "Mord Moughtin"
+    },
+    {
+      "email": "dlonder1x@wikispaces.com",
+      "password": "tT5_ph~W0.}Xl",
+      "img": "https://robohash.org/harumrerumdignissimos.png?size=200x200&set=set1",
+      "name": "Diarmid Londer"
+    },
+    {
+      "email": "bkinleyside1y@timesonline.co.uk",
+      "password": "bU7JUS5`00PS",
+      "img": "https://robohash.org/temporesedsit.png?size=200x200&set=set1",
+      "name": "Beckie Kinleyside"
+    },
+    {
+      "email": "tclucas1z@last.fm",
+      "password": "pV8!qOnTEPZ",
+      "img": "https://robohash.org/quiaidquia.png?size=200x200&set=set1",
+      "name": "Tabor Clucas"
+    },
+    {
+      "email": "ddorling20@reference.com",
+      "password": "tU6!rMjhvG))~1$",
+      "img": "https://robohash.org/aspernaturutnihil.png?size=200x200&set=set1",
+      "name": "Dante Dorling"
+    },
+    {
+      "email": "fcausley21@sun.com",
+      "password": "jX7,N)W\\E<nExKd",
+      "img": "https://robohash.org/ducimussimiliquelabore.png?size=200x200&set=set1",
+      "name": "Freemon Causley"
+    },
+    {
+      "email": "jcutford22@opensource.org",
+      "password": "pQ7sB{GHOncJ\\Xe`",
+      "img": "https://robohash.org/saepeidminima.png?size=200x200&set=set1",
+      "name": "Jorie Cutford"
+    },
+    {
+      "email": "dpanting23@ca.gov",
+      "password": "qS0tZ\"4QH.xav~.",
+      "img": "https://robohash.org/autassumendafacere.png?size=200x200&set=set1",
+      "name": "Daveta Panting"
+    },
+    {
+      "email": "momohun24@whitehouse.gov",
+      "password": "qI4d.T+G.Y\\@ufPa",
+      "img": "https://robohash.org/laudantiumestdistinctio.png?size=200x200&set=set1",
+      "name": "Maggi O'Mohun"
+    },
+    {
+      "email": "cnemchinov25@shutterfly.com",
+      "password": "iX2uwS6\\~|\\)",
+      "img": "https://robohash.org/idaspernaturnemo.png?size=200x200&set=set1",
+      "name": "Conny Nemchinov"
+    },
+    {
+      "email": "acorde26@liveinternet.ru",
+      "password": "mL1j4$x*$zv",
+      "img": "https://robohash.org/etconsecteturquo.png?size=200x200&set=set1",
+      "name": "Alexis Corde"
+    },
+    {
+      "email": "rstarr27@alibaba.com",
+      "password": "aU5K(?_.9!",
+      "img": "https://robohash.org/voluptateminaut.png?size=200x200&set=set1",
+      "name": "Rhea Starr"
+    },
+    {
+      "email": "jmorville28@pagesperso-orange.fr",
+      "password": "yL0NFZR>(zV|fI&",
+      "img": "https://robohash.org/sitdebitisoccaecati.png?size=200x200&set=set1",
+      "name": "Jeri Morville"
+    },
+    {
+      "email": "wbromet29@soup.io",
+      "password": "vT52Bcr(5=",
+      "img": "https://robohash.org/nonmagninam.png?size=200x200&set=set1",
+      "name": "Windy Bromet"
+    },
+    {
+      "email": "nmalafe2a@friendfeed.com",
+      "password": "bV6)W)<t'",
+      "img": "https://robohash.org/doloresnostrumrerum.png?size=200x200&set=set1",
+      "name": "Natalya Malafe"
+    },
+    {
+      "email": "egallety2b@xinhuanet.com",
+      "password": "nD58&*gbs<|4",
+      "img": "https://robohash.org/etullamquis.png?size=200x200&set=set1",
+      "name": "Emily Gallety"
+    },
+    {
+      "email": "hmatthius2c@xing.com",
+      "password": "uT2a6pz4",
+      "img": "https://robohash.org/autdoloremoptio.png?size=200x200&set=set1",
+      "name": "Hillery Matthius"
+    },
+    {
+      "email": "astruys2d@aol.com",
+      "password": "zU33b|qzy8+xh",
+      "img": "https://robohash.org/quasestet.png?size=200x200&set=set1",
+      "name": "Ashien Struys"
+    },
+    {
+      "email": "dklambt2e@accuweather.com",
+      "password": "rQ0qlC\"?OIlSl7Qk",
+      "img": "https://robohash.org/idvelitet.png?size=200x200&set=set1",
+      "name": "Dannye Klambt"
+    },
+    {
+      "email": "lstoner2f@baidu.com",
+      "password": "zN7aEdG<Xv8",
+      "img": "https://robohash.org/explicaboquoset.png?size=200x200&set=set1",
+      "name": "Lark Stoner"
+    },
+    {
+      "email": "bpicton2g@google.co.jp",
+      "password": "sX7&x=EJw>r6tg",
+      "img": "https://robohash.org/oditutquam.png?size=200x200&set=set1",
+      "name": "Bradford Picton"
+    },
+    {
+      "email": "fmcgreay2h@sciencedirect.com",
+      "password": "wG2,bTT(Bq`R",
+      "img": "https://robohash.org/estexpeditaet.png?size=200x200&set=set1",
+      "name": "Federica McGreay"
+    },
+    {
+      "email": "mpasse2i@mapquest.com",
+      "password": "lO5r/V~eD\"",
+      "img": "https://robohash.org/possimusnoniusto.png?size=200x200&set=set1",
+      "name": "Mordecai Passe"
+    },
+    {
+      "email": "cde2j@state.tx.us",
+      "password": "lP1&Z_FIcST",
+      "img": "https://robohash.org/dolorefacilisaccusantium.png?size=200x200&set=set1",
+      "name": "Cordelia de Castelain"
+    },
+    {
+      "email": "ssherewood2k@usnews.com",
+      "password": "pN90.eenDR*t$|q.",
+      "img": "https://robohash.org/eiussuntquisquam.png?size=200x200&set=set1",
+      "name": "Sollie Sherewood"
+    },
+    {
+      "email": "ijankiewicz2l@printfriendly.com",
+      "password": "gI4gK0SLI+Ekl\\Bt",
+      "img": "https://robohash.org/illodoloremqueet.png?size=200x200&set=set1",
+      "name": "Ivette Jankiewicz"
+    },
+    {
+      "email": "rpietruszka2m@yahoo.com",
+      "password": "pN80ndE{ZA~",
+      "img": "https://robohash.org/dolorumdebitisasperiores.png?size=200x200&set=set1",
+      "name": "Riannon Pietruszka"
+    },
+    {
+      "email": "sdrust2n@drupal.org",
+      "password": "uK1C_Nwkr~V8LhC",
+      "img": "https://robohash.org/quovoluptatesfuga.png?size=200x200&set=set1",
+      "name": "Sinclair Drust"
+    },
+    {
+      "email": "sshaddick2o@guardian.co.uk",
+      "password": "hC0xvsi8\"J@So",
+      "img": "https://robohash.org/deseruntdoloremvoluptatem.png?size=200x200&set=set1",
+      "name": "Stormie Shaddick"
+    },
+    {
+      "email": "tgregorowicz2p@hexun.com",
+      "password": "bU7tGJ?hp",
+      "img": "https://robohash.org/etvelitdolor.png?size=200x200&set=set1",
+      "name": "Trisha Gregorowicz"
+    },
+    {
+      "email": "kgoom2q@chron.com",
+      "password": "bJ3,BP>&D1D",
+      "img": "https://robohash.org/excepturiincommodi.png?size=200x200&set=set1",
+      "name": "Kiah Goom"
+    },
+    {
+      "email": "acardello2r@jiathis.com",
+      "password": "iR42=Z#Jtn~",
+      "img": "https://robohash.org/aspernaturnonet.png?size=200x200&set=set1",
+      "name": "Avril Cardello"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "category": "beauty",
+      "price": 9.99,
+      "tags": [
+        "beauty",
+        "mascara"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "category": "beauty",
+      "price": 19.99,
+      "tags": [
+        "beauty",
+        "eyeshadow"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+      "category": "beauty",
+      "price": 14.99,
+      "tags": [
+        "beauty",
+        "face powder"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png"
+    },
+    {
+      "id": 4,
+      "title": "Red Lipstick",
+      "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+      "category": "beauty",
+      "price": 12.99,
+      "tags": [
+        "beauty",
+        "lipstick"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
+    },
+    {
+      "id": 5,
+      "title": "Red Nail Polish",
+      "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+      "category": "beauty",
+      "price": 8.99,
+      "tags": [
+        "beauty",
+        "nail polish"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
+    },
+    {
+      "id": 6,
+      "title": "Calvin Klein CK One",
+      "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+      "category": "fragrances",
+      "price": 49.99,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
+    },
+    {
+      "id": 7,
+      "title": "Chanel Coco Noir Eau De",
+      "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+      "category": "fragrances",
+      "price": 129.99,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png"
+    },
+    {
+      "id": 8,
+      "title": "Dior J'adore",
+      "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+      "category": "fragrances",
+      "price": 89.99,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png"
+    },
+    {
+      "id": 9,
+      "title": "Dolce Shine Eau de",
+      "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+      "category": "fragrances",
+      "price": 69.99,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
+    },
+    {
+      "id": 10,
+      "title": "Gucci Bloom Eau de",
+      "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+      "category": "fragrances",
+      "price": 79.99,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png"
+    },
+    {
+      "id": 11,
+      "title": "Annibale Colombo Bed",
+      "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+      "category": "furniture",
+      "price": 1899.99,
+      "tags": [
+        "furniture",
+        "beds"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png"
+    },
+    {
+      "id": 12,
+      "title": "Annibale Colombo Sofa",
+      "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+      "category": "furniture",
+      "price": 2499.99,
+      "tags": [
+        "furniture",
+        "sofas"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png"
+    },
+    {
+      "id": 13,
+      "title": "Bedside Table African Cherry",
+      "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+      "category": "furniture",
+      "price": 299.99,
+      "tags": [
+        "furniture",
+        "bedside tables"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png"
+    },
+    {
+      "id": 14,
+      "title": "Knoll Saarinen Executive Conference Chair",
+      "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+      "category": "furniture",
+      "price": 499.99,
+      "tags": [
+        "furniture",
+        "office chairs"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png"
+    },
+    {
+      "id": 15,
+      "title": "Wooden Bathroom Sink With Mirror",
+      "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+      "category": "furniture",
+      "price": 799.99,
+      "tags": [
+        "furniture",
+        "bathroom"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png"
+    },
+    {
+      "id": 16,
+      "title": "Apple",
+      "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+      "category": "groceries",
+      "price": 1.99,
+      "tags": [
+        "fruits"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png"
+    },
+    {
+      "id": 17,
+      "title": "Beef Steak",
+      "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+      "category": "groceries",
+      "price": 12.99,
+      "tags": [
+        "meat"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png"
+    },
+    {
+      "id": 18,
+      "title": "Cat Food",
+      "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+      "category": "groceries",
+      "price": 8.99,
+      "tags": [
+        "pet supplies",
+        "cat food"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "tags": [
+        "meat"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/1.png",
+        "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/2.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png"
+    },
+    {
+      "id": 20,
+      "title": "Cooking Oil",
+      "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+      "category": "groceries",
+      "price": 4.99,
+      "tags": [
+        "cooking essentials"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
+    },
+    {
+      "id": 21,
+      "title": "Cucumber",
+      "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+      "category": "groceries",
+      "price": 1.49,
+      "tags": [
+        "vegetables"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cucumber/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cucumber/thumbnail.png"
+    },
+    {
+      "id": 22,
+      "title": "Dog Food",
+      "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+      "category": "groceries",
+      "price": 10.99,
+      "tags": [
+        "pet supplies",
+        "dog food"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/thumbnail.png"
+    },
+    {
+      "id": 23,
+      "title": "Eggs",
+      "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+      "category": "groceries",
+      "price": 2.99,
+      "tags": [
+        "dairy"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Eggs/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Eggs/thumbnail.png"
+    },
+    {
+      "id": 24,
+      "title": "Fish Steak",
+      "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+      "category": "groceries",
+      "price": 14.99,
+      "tags": [
+        "seafood"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png"
+    },
+    {
+      "id": 25,
+      "title": "Green Bell Pepper",
+      "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+      "category": "groceries",
+      "price": 1.29,
+      "tags": [
+        "vegetables"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png"
+    },
+    {
+      "id": 26,
+      "title": "Green Chili Pepper",
+      "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+      "category": "groceries",
+      "price": 0.99,
+      "tags": [
+        "vegetables"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png"
+    },
+    {
+      "id": 27,
+      "title": "Honey Jar",
+      "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+      "category": "groceries",
+      "price": 6.99,
+      "tags": [
+        "condiments"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/thumbnail.png"
+    },
+    {
+      "id": 28,
+      "title": "Ice Cream",
+      "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+      "category": "groceries",
+      "price": 5.49,
+      "tags": [
+        "desserts"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/1.png",
+        "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/2.png",
+        "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/3.png",
+        "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png"
+    },
+    {
+      "id": 29,
+      "title": "Juice",
+      "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+      "category": "groceries",
+      "price": 3.99,
+      "tags": [
+        "beverages"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png"
+    },
+    {
+      "id": 30,
+      "title": "Kiwi",
+      "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+      "category": "groceries",
+      "price": 2.49,
+      "tags": [
+        "fruits"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png"
+    },
+    {
+      "id": 31,
+      "title": "Lemon",
+      "description": "Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
+      "category": "groceries",
+      "price": 0.79,
+      "tags": [
+        "fruits"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Lemon/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Lemon/thumbnail.png"
+    },
+    {
+      "id": 32,
+      "title": "Milk",
+      "description": "Fresh and nutritious milk, a staple for various recipes and daily consumption.",
+      "category": "groceries",
+      "price": 3.49,
+      "tags": [
+        "dairy"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Milk/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Milk/thumbnail.png"
+    },
+    {
+      "id": 33,
+      "title": "Mulberry",
+      "description": "Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
+      "category": "groceries",
+      "price": 4.99,
+      "tags": [
+        "fruits"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Mulberry/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Mulberry/thumbnail.png"
+    },
+    {
+      "id": 34,
+      "title": "Nescafe Coffee",
+      "description": "Quality coffee from Nescafe, available in various blends for a rich and satisfying cup.",
+      "category": "groceries",
+      "price": 7.99,
+      "tags": [
+        "beverages",
+        "coffee"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Nescafe%20Coffee/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Nescafe%20Coffee/thumbnail.png"
+    },
+    {
+      "id": 35,
+      "title": "Potatoes",
+      "description": "Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
+      "category": "groceries",
+      "price": 2.29,
+      "tags": [
+        "vegetables"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Potatoes/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Potatoes/thumbnail.png"
+    },
+    {
+      "id": 36,
+      "title": "Protein Powder",
+      "description": "Nutrient-packed protein powder, ideal for supplementing your diet with essential proteins.",
+      "category": "groceries",
+      "price": 19.99,
+      "tags": [
+        "health supplements"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Protein%20Powder/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Protein%20Powder/thumbnail.png"
+    },
+    {
+      "id": 37,
+      "title": "Red Onions",
+      "description": "Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
+      "category": "groceries",
+      "price": 1.99,
+      "tags": [
+        "vegetables"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/thumbnail.png"
+    },
+    {
+      "id": 38,
+      "title": "Rice",
+      "description": "High-quality rice, a staple for various cuisines and a versatile base for many dishes.",
+      "category": "groceries",
+      "price": 5.99,
+      "tags": [
+        "grains"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Rice/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Rice/thumbnail.png"
+    },
+    {
+      "id": 39,
+      "title": "Soft Drinks",
+      "description": "Assorted soft drinks in various flavors, perfect for refreshing beverages.",
+      "category": "groceries",
+      "price": 1.99,
+      "tags": [
+        "beverages"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/thumbnail.png"
+    },
+    {
+      "id": 40,
+      "title": "Strawberry",
+      "description": "Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
+      "category": "groceries",
+      "price": 3.99,
+      "tags": [
+        "fruits"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Strawberry/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Strawberry/thumbnail.png"
+    },
+    {
+      "id": 41,
+      "title": "Tissue Paper Box",
+      "description": "Convenient tissue paper box for everyday use, providing soft and absorbent tissues.",
+      "category": "groceries",
+      "price": 2.49,
+      "tags": [
+        "household essentials"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/1.png",
+        "https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/2.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/thumbnail.png"
+    },
+    {
+      "id": 42,
+      "title": "Water",
+      "description": "Pure and refreshing bottled water, essential for staying hydrated throughout the day.",
+      "category": "groceries",
+      "price": 0.99,
+      "tags": [
+        "beverages"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Water/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Water/thumbnail.png"
+    },
+    {
+      "id": 43,
+      "title": "Decoration Swing",
+      "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+      "category": "home-decoration",
+      "price": 59.99,
+      "tags": [
+        "home decor",
+        "swing"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/1.png",
+        "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/2.png",
+        "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/thumbnail.png"
+    },
+    {
+      "id": 44,
+      "title": "Family Tree Photo Frame",
+      "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+      "category": "home-decoration",
+      "price": 29.99,
+      "tags": [
+        "home decor",
+        "photo frame"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png"
+    },
+    {
+      "id": 45,
+      "title": "House Showpiece Plant",
+      "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+      "category": "home-decoration",
+      "price": 39.99,
+      "tags": [
+        "home decor",
+        "artificial plants"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/1.png",
+        "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/2.png",
+        "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/thumbnail.png"
+    },
+    {
+      "id": 46,
+      "title": "Plant Pot",
+      "description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+      "category": "home-decoration",
+      "price": 14.99,
+      "tags": [
+        "home decor",
+        "plant accessories"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/1.png",
+        "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/2.png",
+        "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/3.png",
+        "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/thumbnail.png"
+    },
+    {
+      "id": 47,
+      "title": "Table Lamp",
+      "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+      "category": "home-decoration",
+      "price": 49.99,
+      "tags": [
+        "home decor",
+        "lighting"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/thumbnail.png"
+    },
+    {
+      "id": 48,
+      "title": "Bamboo Spatula",
+      "description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+      "category": "kitchen-accessories",
+      "price": 7.99,
+      "tags": [
+        "kitchen tools",
+        "utensils"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Bamboo%20Spatula/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Bamboo%20Spatula/thumbnail.png"
+    },
+    {
+      "id": 49,
+      "title": "Black Aluminium Cup",
+      "description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+      "category": "kitchen-accessories",
+      "price": 5.99,
+      "tags": [
+        "drinkware",
+        "cups"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/1.png",
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/2.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/thumbnail.png"
+    },
+    {
+      "id": 50,
+      "title": "Black Whisk",
+      "description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+      "category": "kitchen-accessories",
+      "price": 9.99,
+      "tags": [
+        "kitchen tools",
+        "utensils"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Whisk/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Whisk/thumbnail.png"
+    },
+    {
+      "id": 51,
+      "title": "Boxed Blender",
+      "description": "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+      "category": "kitchen-accessories",
+      "price": 39.99,
+      "tags": [
+        "kitchen appliances",
+        "blenders"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/1.png",
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/2.png",
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/3.png",
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/thumbnail.png"
+    },
+    {
+      "id": 52,
+      "title": "Carbon Steel Wok",
+      "description": "The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautéing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
+      "category": "kitchen-accessories",
+      "price": 29.99,
+      "tags": [
+        "cookware",
+        "woks"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Carbon%20Steel%20Wok/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Carbon%20Steel%20Wok/thumbnail.png"
+    },
+    {
+      "id": 53,
+      "title": "Chopping Board",
+      "description": "The Chopping Board is an essential kitchen accessory for food preparation. Made from durable material, it provides a safe and hygienic surface for cutting and chopping.",
+      "category": "kitchen-accessories",
+      "price": 12.99,
+      "tags": [
+        "kitchen tools",
+        "cutting boards"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Chopping%20Board/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Chopping%20Board/thumbnail.png"
+    },
+    {
+      "id": 54,
+      "title": "Citrus Squeezer Yellow",
+      "description": "The Citrus Squeezer in Yellow is a handy tool for extracting juice from citrus fruits. Its vibrant color adds a cheerful touch to your kitchen gadgets.",
+      "category": "kitchen-accessories",
+      "price": 8.99,
+      "tags": [
+        "kitchen tools",
+        "juicers"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Citrus%20Squeezer%20Yellow/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Citrus%20Squeezer%20Yellow/thumbnail.png"
+    },
+    {
+      "id": 55,
+      "title": "Egg Slicer",
+      "description": "The Egg Slicer is a convenient tool for slicing boiled eggs evenly. It's perfect for salads, sandwiches, and other dishes where sliced eggs are desired.",
+      "category": "kitchen-accessories",
+      "price": 6.99,
+      "tags": [
+        "kitchen tools",
+        "slicers"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/thumbnail.png"
+    },
+    {
+      "id": 56,
+      "title": "Electric Stove",
+      "description": "The Electric Stove provides a portable and efficient cooking solution. Ideal for small kitchens or as an additional cooking surface for various culinary needs.",
+      "category": "kitchen-accessories",
+      "price": 49.99,
+      "tags": [
+        "kitchen appliances",
+        "cooktops"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/1.png",
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/2.png",
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/3.png",
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/thumbnail.png"
+    },
+    {
+      "id": 57,
+      "title": "Fine Mesh Strainer",
+      "description": "The Fine Mesh Strainer is a versatile tool for straining liquids and sifting dry ingredients. Its fine mesh ensures efficient filtering for smooth cooking and baking.",
+      "category": "kitchen-accessories",
+      "price": 9.99,
+      "tags": [
+        "kitchen tools",
+        "strainers"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Fine%20Mesh%20Strainer/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Fine%20Mesh%20Strainer/thumbnail.png"
+    },
+    {
+      "id": 58,
+      "title": "Fork",
+      "description": "The Fork is a classic utensil for various dining and serving purposes. Its durable and ergonomic design makes it a reliable choice for everyday use.",
+      "category": "kitchen-accessories",
+      "price": 3.99,
+      "tags": [
+        "kitchen tools",
+        "utensils"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Fork/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Fork/thumbnail.png"
+    },
+    {
+      "id": 59,
+      "title": "Glass",
+      "description": "The Glass is a versatile and elegant drinking vessel suitable for a variety of beverages. Its clear design allows you to enjoy the colors and textures of your drinks.",
+      "category": "kitchen-accessories",
+      "price": 4.99,
+      "tags": [
+        "drinkware",
+        "glasses"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Glass/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Glass/thumbnail.png"
+    },
+    {
+      "id": 60,
+      "title": "Grater Black",
+      "description": "The Grater in Black is a handy kitchen tool for grating cheese, vegetables, and more. Its sleek design and sharp blades make food preparation efficient and easy.",
+      "category": "kitchen-accessories",
+      "price": 10.99,
+      "tags": [
+        "kitchen tools",
+        "graters"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Grater%20Black/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Grater%20Black/thumbnail.png"
+    },
+    {
+      "id": 61,
+      "title": "Hand Blender",
+      "description": "The Hand Blender is a versatile kitchen appliance for blending, pureeing, and mixing. Its compact design and powerful motor make it a convenient tool for various recipes.",
+      "category": "kitchen-accessories",
+      "price": 34.99,
+      "tags": [
+        "kitchen appliances",
+        "blenders"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Hand%20Blender/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Hand%20Blender/thumbnail.png"
+    },
+    {
+      "id": 62,
+      "title": "Ice Cube Tray",
+      "description": "The Ice Cube Tray is a practical accessory for making ice cubes in various shapes. Perfect for keeping your drinks cool and adding a fun element to your beverages.",
+      "category": "kitchen-accessories",
+      "price": 5.99,
+      "tags": [
+        "kitchen tools",
+        "ice cube trays"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png"
+    },
+    {
+      "id": 63,
+      "title": "Kitchen Sieve",
+      "description": "The Kitchen Sieve is a versatile tool for sifting and straining dry and wet ingredients. Its fine mesh design ensures smooth results in your cooking and baking.",
+      "category": "kitchen-accessories",
+      "price": 7.99,
+      "tags": [
+        "kitchen tools",
+        "strainers"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Kitchen%20Sieve/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Kitchen%20Sieve/thumbnail.png"
+    },
+    {
+      "id": 64,
+      "title": "Knife",
+      "description": "The Knife is an essential kitchen tool for chopping, slicing, and dicing. Its sharp blade and ergonomic handle make it a reliable choice for food preparation.",
+      "category": "kitchen-accessories",
+      "price": 14.99,
+      "tags": [
+        "kitchen tools",
+        "cutlery"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Knife/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Knife/thumbnail.png"
+    },
+    {
+      "id": 65,
+      "title": "Lunch Box",
+      "description": "The Lunch Box is a convenient and portable container for packing and carrying your meals. With compartments for different foods, it's perfect for on-the-go dining.",
+      "category": "kitchen-accessories",
+      "price": 12.99,
+      "tags": [
+        "kitchen tools",
+        "storage"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Lunch%20Box/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Lunch%20Box/thumbnail.png"
+    },
+    {
+      "id": 66,
+      "title": "Microwave Oven",
+      "description": "The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
+      "category": "kitchen-accessories",
+      "price": 89.99,
+      "tags": [
+        "kitchen appliances",
+        "microwaves"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/1.png",
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/2.png",
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/3.png",
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/thumbnail.png"
+    },
+    {
+      "id": 67,
+      "title": "Mug Tree Stand",
+      "description": "The Mug Tree Stand is a stylish and space-saving solution for organizing your mugs. Keep your favorite mugs easily accessible and neatly displayed in your kitchen.",
+      "category": "kitchen-accessories",
+      "price": 15.99,
+      "tags": [
+        "kitchen tools",
+        "organization"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Mug%20Tree%20Stand/1.png",
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Mug%20Tree%20Stand/2.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Mug%20Tree%20Stand/thumbnail.png"
+    },
+    {
+      "id": 68,
+      "title": "Pan",
+      "description": "The Pan is a versatile and essential cookware item for frying, sautéing, and cooking various dishes. Its non-stick coating ensures easy food release and cleanup.",
+      "category": "kitchen-accessories",
+      "price": 24.99,
+      "tags": [
+        "cookware",
+        "pans"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/thumbnail.png"
+    },
+    {
+      "id": 69,
+      "title": "Plate",
+      "description": "The Plate is a classic and essential dishware item for serving meals. Its durable and stylish design makes it suitable for everyday use or special occasions.",
+      "category": "kitchen-accessories",
+      "price": 3.99,
+      "tags": [
+        "dinnerware",
+        "plates"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/thumbnail.png"
+    },
+    {
+      "id": 70,
+      "title": "Red Tongs",
+      "description": "The Red Tongs are versatile kitchen tongs suitable for various cooking and serving tasks. Their vibrant color adds a pop of excitement to your kitchen utensils.",
+      "category": "kitchen-accessories",
+      "price": 6.99,
+      "tags": [
+        "kitchen tools",
+        "tongs"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Red%20Tongs/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Red%20Tongs/thumbnail.png"
+    },
+    {
+      "id": 71,
+      "title": "Silver Pot With Glass Cap",
+      "description": "The Silver Pot with Glass Cap is a stylish and functional cookware item for boiling, simmering, and preparing delicious meals. Its glass cap allows you to monitor cooking progress.",
+      "category": "kitchen-accessories",
+      "price": 39.99,
+      "tags": [
+        "cookware",
+        "pots"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Silver%20Pot%20With%20Glass%20Cap/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Silver%20Pot%20With%20Glass%20Cap/thumbnail.png"
+    },
+    {
+      "id": 72,
+      "title": "Slotted Turner",
+      "description": "The Slotted Turner is a kitchen utensil designed for flipping and turning food items. Its slotted design allows excess liquid to drain, making it ideal for frying and sautéing.",
+      "category": "kitchen-accessories",
+      "price": 8.99,
+      "tags": [
+        "kitchen tools",
+        "turners"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Slotted%20Turner/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Slotted%20Turner/thumbnail.png"
+    },
+    {
+      "id": 73,
+      "title": "Spice Rack",
+      "description": "The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
+      "category": "kitchen-accessories",
+      "price": 19.99,
+      "tags": [
+        "kitchen tools",
+        "organization"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spice%20Rack/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spice%20Rack/thumbnail.png"
+    },
+    {
+      "id": 74,
+      "title": "Spoon",
+      "description": "The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
+      "category": "kitchen-accessories",
+      "price": 4.99,
+      "tags": [
+        "kitchen tools",
+        "utensils"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/thumbnail.png"
+    },
+    {
+      "id": 75,
+      "title": "Tray",
+      "description": "The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
+      "category": "kitchen-accessories",
+      "price": 16.99,
+      "tags": [
+        "serveware",
+        "trays"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Tray/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Tray/thumbnail.png"
+    },
+    {
+      "id": 76,
+      "title": "Wooden Rolling Pin",
+      "description": "The Wooden Rolling Pin is a classic kitchen tool for rolling out dough for baking. Its smooth surface and sturdy handles make it easy to achieve uniform thickness.",
+      "category": "kitchen-accessories",
+      "price": 11.99,
+      "tags": [
+        "kitchen tools",
+        "baking"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/thumbnail.png"
+    },
+    {
+      "id": 77,
+      "title": "Yellow Peeler",
+      "description": "The Yellow Peeler is a handy tool for peeling fruits and vegetables with ease. Its bright yellow color adds a cheerful touch to your kitchen gadgets.",
+      "category": "kitchen-accessories",
+      "price": 5.99,
+      "tags": [
+        "kitchen tools",
+        "peelers"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Yellow%20Peeler/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Yellow%20Peeler/thumbnail.png"
+    },
+    {
+      "id": 78,
+      "title": "Apple MacBook Pro 14 Inch Space Grey",
+      "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+      "category": "laptops",
+      "price": 1999.99,
+      "tags": [
+        "laptops",
+        "apple"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/1.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/2.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png"
+    },
+    {
+      "id": 79,
+      "title": "Asus Zenbook Pro Dual Screen Laptop",
+      "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+      "category": "laptops",
+      "price": 1799.99,
+      "tags": [
+        "laptops"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/1.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/2.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/thumbnail.png"
+    },
+    {
+      "id": 80,
+      "title": "Huawei Matebook X Pro",
+      "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+      "category": "laptops",
+      "price": 1399.99,
+      "tags": [
+        "laptops"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/1.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/2.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/thumbnail.png"
+    },
+    {
+      "id": 81,
+      "title": "Lenovo Yoga 920",
+      "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+      "category": "laptops",
+      "price": 1099.99,
+      "tags": [
+        "laptops"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/1.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/2.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/thumbnail.png"
+    },
+    {
+      "id": 82,
+      "title": "New DELL XPS 13 9300 Laptop",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "tags": [
+        "laptops"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/1.png",
+        "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/2.png",
+        "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/thumbnail.png"
+    },
+    {
+      "id": 83,
+      "title": "Blue & Black Check Shirt",
+      "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+      "category": "mens-shirts",
+      "price": 29.99,
+      "tags": [
+        "clothing",
+        "men's shirts"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/thumbnail.png"
+    },
+    {
+      "id": 84,
+      "title": "Gigabyte Aorus Men Tshirt",
+      "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+      "category": "mens-shirts",
+      "price": 24.99,
+      "tags": [
+        "clothing",
+        "men's t-shirts"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/thumbnail.png"
+    },
+    {
+      "id": 85,
+      "title": "Man Plaid Shirt",
+      "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+      "category": "mens-shirts",
+      "price": 34.99,
+      "tags": [
+        "clothing",
+        "men's shirts"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png"
+    },
+    {
+      "id": 86,
+      "title": "Man Short Sleeve Shirt",
+      "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+      "category": "mens-shirts",
+      "price": 19.99,
+      "tags": [
+        "clothing",
+        "men's shirts"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/thumbnail.png"
+    },
+    {
+      "id": 87,
+      "title": "Men Check Shirt",
+      "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+      "category": "mens-shirts",
+      "price": 27.99,
+      "tags": [
+        "clothing",
+        "men's shirts"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/thumbnail.png"
+    },
+    {
+      "id": 88,
+      "title": "Nike Air Jordan 1 Red And Black",
+      "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+      "category": "mens-shoes",
+      "price": 149.99,
+      "tags": [
+        "footwear",
+        "athletic shoes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/thumbnail.png"
+    },
+    {
+      "id": 89,
+      "title": "Nike Baseball Cleats",
+      "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+      "category": "mens-shoes",
+      "price": 79.99,
+      "tags": [
+        "footwear",
+        "sports cleats"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/thumbnail.png"
+    },
+    {
+      "id": 90,
+      "title": "Puma Future Rider Trainers",
+      "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+      "category": "mens-shoes",
+      "price": 89.99,
+      "tags": [
+        "footwear",
+        "casual shoes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/thumbnail.png"
+    },
+    {
+      "id": 91,
+      "title": "Sports Sneakers Off White & Red",
+      "description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+      "category": "mens-shoes",
+      "price": 119.99,
+      "tags": [
+        "footwear",
+        "athletic shoes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/thumbnail.png"
+    },
+    {
+      "id": 92,
+      "title": "Sports Sneakers Off White Red",
+      "description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+      "category": "mens-shoes",
+      "price": 109.99,
+      "tags": [
+        "footwear",
+        "casual shoes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/thumbnail.png"
+    },
+    {
+      "id": 93,
+      "title": "Brown Leather Belt Watch",
+      "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+      "category": "mens-watches",
+      "price": 89.99,
+      "tags": [
+        "watches",
+        "leather watches"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/thumbnail.png"
+    },
+    {
+      "id": 94,
+      "title": "Longines Master Collection",
+      "description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+      "category": "mens-watches",
+      "price": 1499.99,
+      "tags": [
+        "watches",
+        "luxury watches"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/thumbnail.png"
+    },
+    {
+      "id": 95,
+      "title": "Rolex Cellini Date Black Dial",
+      "description": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+      "category": "mens-watches",
+      "price": 8999.99,
+      "tags": [
+        "watches",
+        "luxury watches"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/thumbnail.png"
+    },
+    {
+      "id": 96,
+      "title": "Rolex Cellini Moonphase",
+      "description": "The Rolex Cellini Moonphase is a masterpiece of horology, featuring a moon phase complication and exquisite design. It reflects Rolex's commitment to precision and elegance.",
+      "category": "mens-watches",
+      "price": 12999.99,
+      "tags": [
+        "watches",
+        "luxury watches"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png"
+    },
+    {
+      "id": 97,
+      "title": "Rolex Datejust",
+      "description": "The Rolex Datejust is an iconic and versatile timepiece with a date window. Known for its timeless design and reliability, it's a symbol of Rolex's watchmaking excellence.",
+      "category": "mens-watches",
+      "price": 10999.99,
+      "tags": [
+        "watches",
+        "luxury watches"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/thumbnail.png"
+    },
+    {
+      "id": 98,
+      "title": "Rolex Submariner Watch",
+      "description": "The Rolex Submariner is a legendary dive watch with a rich history. Known for its durability and water resistance, it's a symbol of adventure and exploration.",
+      "category": "mens-watches",
+      "price": 13999.99,
+      "tags": [
+        "watches",
+        "luxury watches"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/thumbnail.png"
+    },
+    {
+      "id": 99,
+      "title": "Amazon Echo Plus",
+      "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+      "category": "mobile-accessories",
+      "price": 99.99,
+      "tags": [
+        "electronics",
+        "smart speakers"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Amazon%20Echo%20Plus/1.png",
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Amazon%20Echo%20Plus/2.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Amazon%20Echo%20Plus/thumbnail.png"
+    },
+    {
+      "id": 100,
+      "title": "Apple Airpods",
+      "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+      "category": "mobile-accessories",
+      "price": 129.99,
+      "tags": [
+        "electronics",
+        "wireless earphones"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/1.png",
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/2.png",
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png"
+    },
+    {
+      "id": 101,
+      "title": "Apple AirPods Max Silver",
+      "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+      "category": "mobile-accessories",
+      "price": 549.99,
+      "tags": [
+        "electronics",
+        "over-ear headphones"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20AirPods%20Max%20Silver/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20AirPods%20Max%20Silver/thumbnail.png"
+    },
+    {
+      "id": 102,
+      "title": "Apple Airpower Wireless Charger",
+      "description": "The Apple AirPower Wireless Charger provides a convenient way to charge your compatible Apple devices wirelessly. Simply place your devices on the charging mat for effortless charging.",
+      "category": "mobile-accessories",
+      "price": 79.99,
+      "tags": [
+        "electronics",
+        "wireless chargers"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpower%20Wireless%20Charger/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpower%20Wireless%20Charger/thumbnail.png"
+    },
+    {
+      "id": 103,
+      "title": "Apple HomePod Mini Cosmic Grey",
+      "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+      "category": "mobile-accessories",
+      "price": 99.99,
+      "tags": [
+        "electronics",
+        "smart speakers"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20HomePod%20Mini%20Cosmic%20Grey/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20HomePod%20Mini%20Cosmic%20Grey/thumbnail.png"
+    },
+    {
+      "id": 104,
+      "title": "Apple iPhone Charger",
+      "description": "The Apple iPhone Charger is a high-quality charger designed for fast and efficient charging of your iPhone. Ensure your device stays powered up and ready to go.",
+      "category": "mobile-accessories",
+      "price": 19.99,
+      "tags": [
+        "electronics",
+        "chargers"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20iPhone%20Charger/1.png",
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20iPhone%20Charger/2.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20iPhone%20Charger/thumbnail.png"
+    },
+    {
+      "id": 105,
+      "title": "Apple MagSafe Battery Pack",
+      "description": "The Apple MagSafe Battery Pack is a portable and convenient way to add extra battery life to your MagSafe-compatible iPhone. Attach it magnetically for a secure connection.",
+      "category": "mobile-accessories",
+      "price": 99.99,
+      "tags": [
+        "electronics",
+        "power banks"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/1.png",
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/2.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/thumbnail.png"
+    },
+    {
+      "id": 106,
+      "title": "Apple Watch Series 4 Gold",
+      "description": "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
+      "category": "mobile-accessories",
+      "price": 349.99,
+      "tags": [
+        "electronics",
+        "smartwatches"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/1.png",
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/2.png",
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/thumbnail.png"
+    },
+    {
+      "id": 107,
+      "title": "Beats Flex Wireless Earphones",
+      "description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+      "category": "mobile-accessories",
+      "price": 49.99,
+      "tags": [
+        "electronics",
+        "wireless earphones"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Beats%20Flex%20Wireless%20Earphones/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Beats%20Flex%20Wireless%20Earphones/thumbnail.png"
+    },
+    {
+      "id": 108,
+      "title": "iPhone 12 Silicone Case with MagSafe Plum",
+      "description": "The iPhone 12 Silicone Case with MagSafe in Plum is a stylish and protective case designed for the iPhone 12. It features MagSafe technology for easy attachment of accessories.",
+      "category": "mobile-accessories",
+      "price": 29.99,
+      "tags": [
+        "electronics",
+        "phone accessories"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/1.png",
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/2.png",
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/3.png",
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/thumbnail.png"
+    },
+    {
+      "id": 109,
+      "title": "Monopod",
+      "description": "The Monopod is a versatile camera accessory for stable and adjustable shooting. Perfect for capturing selfies, group photos, and videos with ease.",
+      "category": "mobile-accessories",
+      "price": 19.99,
+      "tags": [
+        "electronics",
+        "camera accessories"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Monopod/1.png",
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Monopod/2.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Monopod/thumbnail.png"
+    },
+    {
+      "id": 110,
+      "title": "Selfie Lamp with iPhone",
+      "description": "The Selfie Lamp with iPhone is a portable and adjustable LED light designed to enhance your selfies and video calls. Attach it to your iPhone for well-lit photos.",
+      "category": "mobile-accessories",
+      "price": 14.99,
+      "tags": [
+        "electronics",
+        "selfie accessories"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png"
+    },
+    {
+      "id": 111,
+      "title": "Selfie Stick Monopod",
+      "description": "The Selfie Stick Monopod is a extendable and foldable device for capturing the perfect selfie or group photo. Compatible with smartphones and cameras.",
+      "category": "mobile-accessories",
+      "price": 12.99,
+      "tags": [
+        "electronics",
+        "selfie accessories"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/thumbnail.png"
+    },
+    {
+      "id": 112,
+      "title": "TV Studio Camera Pedestal",
+      "description": "The TV Studio Camera Pedestal is a professional-grade camera support system for smooth and precise camera movements in a studio setting. Ideal for broadcast and production.",
+      "category": "mobile-accessories",
+      "price": 499.99,
+      "tags": [
+        "electronics",
+        "camera accessories"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mobile-accessories/TV%20Studio%20Camera%20Pedestal/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/TV%20Studio%20Camera%20Pedestal/thumbnail.png"
+    },
+    {
+      "id": 113,
+      "title": "Generic Motorcycle",
+      "description": "The Generic Motorcycle is a versatile and reliable bike suitable for various riding preferences. With a balanced design, it provides a comfortable and efficient riding experience.",
+      "category": "motorcycle",
+      "price": 3999.99,
+      "tags": [
+        "motorcycles"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/1.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/2.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/3.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/thumbnail.png"
+    },
+    {
+      "id": 114,
+      "title": "Kawasaki Z800",
+      "description": "The Kawasaki Z800 is a powerful and agile sportbike known for its striking design and performance. It's equipped with advanced features, making it a favorite among motorcycle enthusiasts.",
+      "category": "motorcycle",
+      "price": 8999.99,
+      "tags": [
+        "motorcycles",
+        "sportbikes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/motorcycle/Kawasaki%20Z800/1.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Kawasaki%20Z800/2.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Kawasaki%20Z800/3.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Kawasaki%20Z800/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/motorcycle/Kawasaki%20Z800/thumbnail.png"
+    },
+    {
+      "id": 115,
+      "title": "MotoGP CI.H1",
+      "description": "The MotoGP CI.H1 is a high-performance motorcycle inspired by MotoGP racing technology. It offers cutting-edge features and precision engineering for an exhilarating riding experience.",
+      "category": "motorcycle",
+      "price": 14999.99,
+      "tags": [
+        "motorcycles",
+        "sportbikes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/motorcycle/MotoGP%20CI.H1/1.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/MotoGP%20CI.H1/2.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/MotoGP%20CI.H1/3.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/MotoGP%20CI.H1/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/motorcycle/MotoGP%20CI.H1/thumbnail.png"
+    },
+    {
+      "id": 116,
+      "title": "Scooter Motorcycle",
+      "description": "The Scooter Motorcycle is a practical and fuel-efficient bike ideal for urban commuting. It features a step-through design and user-friendly controls for easy maneuverability.",
+      "category": "motorcycle",
+      "price": 2999.99,
+      "tags": [
+        "motorcycles",
+        "scooters"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/motorcycle/Scooter%20Motorcycle/1.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Scooter%20Motorcycle/2.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Scooter%20Motorcycle/3.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Scooter%20Motorcycle/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/motorcycle/Scooter%20Motorcycle/thumbnail.png"
+    },
+    {
+      "id": 117,
+      "title": "Sportbike Motorcycle",
+      "description": "The Sportbike Motorcycle is designed for speed and agility, with a sleek and aerodynamic profile. It's suitable for riders looking for a dynamic and thrilling riding experience.",
+      "category": "motorcycle",
+      "price": 7499.99,
+      "tags": [
+        "motorcycles",
+        "sportbikes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/1.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/2.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/3.png",
+        "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/thumbnail.png"
+    },
+    {
+      "id": 118,
+      "title": "Attitude Super Leaves Hand Soap",
+      "description": "Attitude Super Leaves Hand Soap is a natural and nourishing hand soap enriched with the goodness of super leaves. It cleanses and moisturizes your hands, leaving them feeling fresh and soft.",
+      "category": "skin-care",
+      "price": 8.99,
+      "tags": [
+        "personal care",
+        "hand soap"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/skin-care/Attitude%20Super%20Leaves%20Hand%20Soap/1.png",
+        "https://cdn.dummyjson.com/products/images/skin-care/Attitude%20Super%20Leaves%20Hand%20Soap/2.png",
+        "https://cdn.dummyjson.com/products/images/skin-care/Attitude%20Super%20Leaves%20Hand%20Soap/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/skin-care/Attitude%20Super%20Leaves%20Hand%20Soap/thumbnail.png"
+    },
+    {
+      "id": 119,
+      "title": "Olay Ultra Moisture Shea Butter Body Wash",
+      "description": "Olay Ultra Moisture Shea Butter Body Wash is a luxurious body wash that hydrates and nourishes your skin with the moisturizing power of shea butter. Enjoy a rich lather and silky-smooth skin.",
+      "category": "skin-care",
+      "price": 12.99,
+      "tags": [
+        "personal care",
+        "body wash"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/skin-care/Olay%20Ultra%20Moisture%20Shea%20Butter%20Body%20Wash/1.png",
+        "https://cdn.dummyjson.com/products/images/skin-care/Olay%20Ultra%20Moisture%20Shea%20Butter%20Body%20Wash/2.png",
+        "https://cdn.dummyjson.com/products/images/skin-care/Olay%20Ultra%20Moisture%20Shea%20Butter%20Body%20Wash/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/skin-care/Olay%20Ultra%20Moisture%20Shea%20Butter%20Body%20Wash/thumbnail.png"
+    },
+    {
+      "id": 120,
+      "title": "Vaseline Men Body and Face Lotion",
+      "description": "Vaseline Men Body and Face Lotion is a specially formulated lotion designed to provide long-lasting moisture to men's skin. It absorbs quickly and helps keep the skin hydrated and healthy.",
+      "category": "skin-care",
+      "price": 9.99,
+      "tags": [
+        "personal care",
+        "body lotion"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/skin-care/Vaseline%20Men%20Body%20and%20Face%20Lotion/1.png",
+        "https://cdn.dummyjson.com/products/images/skin-care/Vaseline%20Men%20Body%20and%20Face%20Lotion/2.png",
+        "https://cdn.dummyjson.com/products/images/skin-care/Vaseline%20Men%20Body%20and%20Face%20Lotion/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/skin-care/Vaseline%20Men%20Body%20and%20Face%20Lotion/thumbnail.png"
+    },
+    {
+      "id": 121,
+      "title": "iPhone 5s",
+      "description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+      "category": "smartphones",
+      "price": 199.99,
+      "tags": [
+        "smartphones",
+        "apple"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png"
+    },
+    {
+      "id": 122,
+      "title": "iPhone 6",
+      "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+      "category": "smartphones",
+      "price": 299.99,
+      "tags": [
+        "smartphones",
+        "apple"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png"
+    },
+    {
+      "id": 123,
+      "title": "iPhone 13 Pro",
+      "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+      "category": "smartphones",
+      "price": 1099.99,
+      "tags": [
+        "smartphones",
+        "apple"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/thumbnail.png"
+    },
+    {
+      "id": 124,
+      "title": "iPhone X",
+      "description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+      "category": "smartphones",
+      "price": 899.99,
+      "tags": [
+        "smartphones",
+        "apple"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png"
+    },
+    {
+      "id": 125,
+      "title": "Oppo A57",
+      "description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+      "category": "smartphones",
+      "price": 249.99,
+      "tags": [
+        "smartphones",
+        "oppo"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png"
+    },
+    {
+      "id": 126,
+      "title": "Oppo F19 Pro Plus",
+      "description": "The Oppo F19 Pro Plus is a feature-rich smartphone with a focus on camera capabilities. It boasts advanced photography features and a powerful performance for a premium user experience.",
+      "category": "smartphones",
+      "price": 399.99,
+      "tags": [
+        "smartphones",
+        "oppo"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro%20Plus/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro%20Plus/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro%20Plus/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro%20Plus/thumbnail.png"
+    },
+    {
+      "id": 127,
+      "title": "Oppo K1",
+      "description": "The Oppo K1 series offers a range of smartphones with various features and specifications. Known for their stylish design and reliable performance, the Oppo K1 series caters to diverse user preferences.",
+      "category": "smartphones",
+      "price": 299.99,
+      "tags": [
+        "smartphones",
+        "oppo"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/3.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/thumbnail.png"
+    },
+    {
+      "id": 128,
+      "title": "Realme C35",
+      "description": "The Realme C35 is a budget-friendly smartphone with a focus on providing essential features for everyday use. It offers a reliable performance and user-friendly experience.",
+      "category": "smartphones",
+      "price": 149.99,
+      "tags": [
+        "smartphones",
+        "realme"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png"
+    },
+    {
+      "id": 129,
+      "title": "Realme X",
+      "description": "The Realme X is a mid-range smartphone known for its sleek design and impressive display. It offers a good balance of performance and camera capabilities for users seeking a quality device.",
+      "category": "smartphones",
+      "price": 299.99,
+      "tags": [
+        "smartphones",
+        "realme"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/thumbnail.png"
+    },
+    {
+      "id": 130,
+      "title": "Realme XT",
+      "description": "The Realme XT is a feature-rich smartphone with a focus on camera technology. It comes equipped with advanced camera sensors, delivering high-quality photos and videos for photography enthusiasts.",
+      "category": "smartphones",
+      "price": 349.99,
+      "tags": [
+        "smartphones",
+        "realme"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/thumbnail.png"
+    },
+    {
+      "id": 131,
+      "title": "Samsung Galaxy S7",
+      "description": "The Samsung Galaxy S7 is a flagship smartphone known for its sleek design and advanced features. It features a high-resolution display, powerful camera, and robust performance.",
+      "category": "smartphones",
+      "price": 299.99,
+      "tags": [
+        "smartphones",
+        "samsung galaxy"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/thumbnail.png"
+    },
+    {
+      "id": 132,
+      "title": "Samsung Galaxy S8",
+      "description": "The Samsung Galaxy S8 is a premium smartphone with an Infinity Display, offering a stunning visual experience. It boasts advanced camera capabilities and cutting-edge technology.",
+      "category": "smartphones",
+      "price": 499.99,
+      "tags": [
+        "smartphones",
+        "samsung galaxy"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png"
+    },
+    {
+      "id": 133,
+      "title": "Samsung Galaxy S10",
+      "description": "The Samsung Galaxy S10 is a flagship device featuring a dynamic AMOLED display, versatile camera system, and powerful performance. It represents innovation and excellence in smartphone technology.",
+      "category": "smartphones",
+      "price": 699.99,
+      "tags": [
+        "smartphones",
+        "samsung galaxy"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png"
+    },
+    {
+      "id": 134,
+      "title": "Vivo S1",
+      "description": "The Vivo S1 is a stylish and mid-range smartphone offering a blend of design and performance. It features a vibrant display, capable camera system, and reliable functionality.",
+      "category": "smartphones",
+      "price": 249.99,
+      "tags": [
+        "smartphones",
+        "vivo"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png"
+    },
+    {
+      "id": 135,
+      "title": "Vivo V9",
+      "description": "The Vivo V9 is a smartphone known for its sleek design and emphasis on capturing high-quality selfies. It features a notch display, dual-camera setup, and a modern design.",
+      "category": "smartphones",
+      "price": 299.99,
+      "tags": [
+        "smartphones",
+        "vivo"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20V9/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20V9/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20V9/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20V9/thumbnail.png"
+    },
+    {
+      "id": 136,
+      "title": "Vivo X21",
+      "description": "The Vivo X21 is a premium smartphone with a focus on cutting-edge technology. It features an in-display fingerprint sensor, a high-resolution display, and advanced camera capabilities.",
+      "category": "smartphones",
+      "price": 499.99,
+      "tags": [
+        "smartphones",
+        "vivo"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20X21/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20X21/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20X21/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20X21/thumbnail.png"
+    },
+    {
+      "id": 137,
+      "title": "American Football",
+      "description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+      "category": "sports-accessories",
+      "price": 19.99,
+      "tags": [
+        "sports equipment",
+        "american football"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/American%20Football/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/American%20Football/thumbnail.png"
+    },
+    {
+      "id": 138,
+      "title": "Baseball Ball",
+      "description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+      "category": "sports-accessories",
+      "price": 8.99,
+      "tags": [
+        "sports equipment",
+        "baseball"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png"
+    },
+    {
+      "id": 139,
+      "title": "Baseball Glove",
+      "description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+      "category": "sports-accessories",
+      "price": 24.99,
+      "tags": [
+        "sports equipment",
+        "baseball"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/1.png",
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/2.png",
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/thumbnail.png"
+    },
+    {
+      "id": 140,
+      "title": "Basketball",
+      "description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+      "category": "sports-accessories",
+      "price": 14.99,
+      "tags": [
+        "sports equipment",
+        "basketball"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball/thumbnail.png"
+    },
+    {
+      "id": 141,
+      "title": "Basketball Rim",
+      "description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+      "category": "sports-accessories",
+      "price": 39.99,
+      "tags": [
+        "sports equipment",
+        "basketball"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball%20Rim/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball%20Rim/thumbnail.png"
+    },
+    {
+      "id": 142,
+      "title": "Cricket Ball",
+      "description": "The Cricket Ball is a hard leather ball used in the sport of cricket. It is bowled and batted in the game, and its hardness and seam contribute to the dynamics of cricket play.",
+      "category": "sports-accessories",
+      "price": 12.99,
+      "tags": [
+        "sports equipment",
+        "cricket"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Ball/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Ball/thumbnail.png"
+    },
+    {
+      "id": 143,
+      "title": "Cricket Bat",
+      "description": "The Cricket Bat is an essential piece of cricket equipment used by batsmen to hit the cricket ball. It is made of wood and comes in various sizes and designs.",
+      "category": "sports-accessories",
+      "price": 29.99,
+      "tags": [
+        "sports equipment",
+        "cricket"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Bat/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Bat/thumbnail.png"
+    },
+    {
+      "id": 144,
+      "title": "Cricket Helmet",
+      "description": "The Cricket Helmet is a protective headgear worn by cricket players, especially batsmen and wicketkeepers. It provides protection against fast bowling and bouncers.",
+      "category": "sports-accessories",
+      "price": 44.99,
+      "tags": [
+        "sports equipment",
+        "cricket"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/1.png",
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/2.png",
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/3.png",
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/4.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/thumbnail.png"
+    },
+    {
+      "id": 145,
+      "title": "Cricket Wicket",
+      "description": "The Cricket Wicket is a set of three stumps and two bails, forming a wicket used in the sport of cricket. Batsmen aim to protect the wicket while scoring runs.",
+      "category": "sports-accessories",
+      "price": 29.99,
+      "tags": [
+        "sports equipment",
+        "cricket"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Wicket/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Wicket/thumbnail.png"
+    },
+    {
+      "id": 146,
+      "title": "Feather Shuttlecock",
+      "description": "The Feather Shuttlecock is used in the sport of badminton. It features natural feathers and is designed for high-speed play, providing stability and accuracy during matches.",
+      "category": "sports-accessories",
+      "price": 5.99,
+      "tags": [
+        "sports equipment",
+        "badminton"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Feather%20Shuttlecock/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Feather%20Shuttlecock/thumbnail.png"
+    },
+    {
+      "id": 147,
+      "title": "Football",
+      "description": "The Football, also known as a soccer ball, is the standard ball used in the sport of football (soccer). It is designed for kicking and passing in the game.",
+      "category": "sports-accessories",
+      "price": 17.99,
+      "tags": [
+        "sports equipment",
+        "football"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Football/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Football/thumbnail.png"
+    },
+    {
+      "id": 148,
+      "title": "Golf Ball",
+      "description": "The Golf Ball is a small ball used in the sport of golf. It features dimples on its surface, providing aerodynamic lift and distance when struck by a golf club.",
+      "category": "sports-accessories",
+      "price": 9.99,
+      "tags": [
+        "sports equipment",
+        "golf"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/thumbnail.png"
+    },
+    {
+      "id": 149,
+      "title": "Iron Golf",
+      "description": "The Iron Golf is a type of golf club designed for various golf shots. It features a solid metal head and is used for approach shots, chipping, and other golfing techniques.",
+      "category": "sports-accessories",
+      "price": 49.99,
+      "tags": [
+        "sports equipment",
+        "golf"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Iron%20Golf/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Iron%20Golf/thumbnail.png"
+    },
+    {
+      "id": 150,
+      "title": "Metal Baseball Bat",
+      "description": "The Metal Baseball Bat is a durable and lightweight baseball bat made from metal alloys. It is commonly used in baseball games for hitting and batting practice.",
+      "category": "sports-accessories",
+      "price": 29.99,
+      "tags": [
+        "sports equipment",
+        "baseball"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Metal%20Baseball%20Bat/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Metal%20Baseball%20Bat/thumbnail.png"
+    }
+  ]
+}

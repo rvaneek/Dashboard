@@ -1,0 +1,24 @@
+.HomeWrapper {
+	& {
+		border: 1px solid black;
+		width: 100%;
+	}
+
+	.Section2 {
+		& {
+			display: flex;
+			flex-direction: column;
+		}
+
+		.UserTable{
+			& tr img{
+				width: 30px;
+				border-radius: 15px;
+			}
+
+			& tbody:nth-child(1){
+				/*background: blue;*/
+			}
+		}
+	}
+}
